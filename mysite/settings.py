@@ -25,7 +25,7 @@ SECRET_KEY = 'vrpm$)alrc%4j#0j=&#lmd(#xyvuqw)pps9o#m582w1zdkivlq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<limalipa>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'limalipa.pythonanywhere.com']
 
 
 # Application definition
